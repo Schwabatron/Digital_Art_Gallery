@@ -9,8 +9,6 @@ Currently, two official plugins are available:
 
 Digital Art Gallery:
 
-Made by
+Made by: William Mullin / Luiginna Fernandez / Jack Schwabe
 
-Luiginna Fernandez
-William Mullin
-Jack Schwabe
+
